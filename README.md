@@ -1,4 +1,4 @@
-# Yaroslav-Andrew-Ramazan-third-project
+# Yaroslav-Andrew-third-project
 third project
 Название: What's in My Fridge?
 
